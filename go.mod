@@ -1,4 +1,4 @@
-module github.com/hexcraft-biz/misc/xface
+module github.com/hexcraft-biz/misc-xface
 
 go 1.21.1
 
